@@ -1,6 +1,5 @@
-package Algorithm.comparison;
-
-import Algorithm.Solution;
+package Algorithm;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
@@ -11,4 +10,3 @@ public class Main {
         System.out.println(y);
     }
 }
-p
