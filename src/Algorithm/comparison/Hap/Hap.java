@@ -1,6 +1,6 @@
-package Algorithm.comparison;
+package Algorithm.comparison.Hap;
 
-class Solution {
+public class Hap {
     public int solution(int num1, int num2) {
         int answer = num1 + num2;
         return answer;
